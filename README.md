@@ -1,1 +1,1 @@
-"#projectv" 
+"#SocialiteProviders/projectv" 
