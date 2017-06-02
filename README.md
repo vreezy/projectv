@@ -1,1 +1,0 @@
-"#SocialiteProviders/projectv" 
